@@ -1,0 +1,8 @@
+1.浮点数保留一位小数：‘{:.1f}’
+2.输入多组数据同时输出多组数据：用while True:来创建一个无线循环
+e.g. while True:
+    n, m = map (int,input(). split())
+    if n == 0 and m == 0:
+        break
+print (joseph(n, m))
+3.def一般写在最前面保证可读性
